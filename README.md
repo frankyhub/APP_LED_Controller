@@ -8,19 +8,15 @@
 <a href="https://github.com/frankyhub/APP_LED_Controller/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/APP_LED_Controller)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/APP_LED_Controller)|<a href="https://github.com/frankyhub/APP_LED_Controller/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/APP_LED_Controller)|<a href="https://github.com/frankyhub/APP_LED_Controller/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/APP_LED_Controller)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2134-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/APP_LED_Controller)| <a href="https://github.com/frankyhub/APP_LED_Controller/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/APP_LED_Controller/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
+
+
+<img src="pic/APP_rgb_led_controller.png" width="500"> 
+<br> <br>
+
+<img src="pic/led_controller.png" width="500"> 
+<br> <br>
+
 </div>
-
-<img src="pic/APP_rgb_led_controller.png" width="300"> 
-<br> <br>
-
-<img src="pic/led_controller.png" width="300"> 
-<br> <br>
-
-<img src="pic/APP_rgb_led_controller.png">
-<br> <br>
-
-<img src="pic/led_controller.png">
-<br> <br>
 
 <ul>
   <font size="+2">

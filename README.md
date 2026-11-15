@@ -20,7 +20,7 @@
 
 <ul>
   <font size="+2">
-<h3>Einleitung:</h3>
+<h3>Story:</h3>
 
 Der <b>MIT App Inventor</b> (MIT = Massachusetts Institute of Technology) ist eine vom US-amerikanischen Unternehmen Google Inc. entwickelte Integrierte Entwicklungsumgebung, um Anwendungen für Android zu programmieren.
   

@@ -10,10 +10,10 @@
 
 
 
-<img src="pic/APP_rgb_led_controller.png" width="500"> 
+<img src="pic/APP_rgb_led_controller.png" width="400"> 
 <br> <br>
 
-<img src="pic/led_controller.png" width="500"> 
+<img src="pic/led_controller.png" width="400"> 
 <br> <br>
 
 </div>

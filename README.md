@@ -195,7 +195,7 @@ int state;       // LED Status
 
 void setup() {
 
-  SerialBT.begin("ESP32GPIO13"); //Bluetooth device name
+  SerialBT.begin("ESP32GPIO13"); //Bluetooth Name
   Serial.println("ESP32GPIO13 wurde gestartet!");
 
     pinMode(led, OUTPUT);

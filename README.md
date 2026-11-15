@@ -10,11 +10,16 @@
 
 </div>
 
-
-<img src="/APP_rgb_led_controller.png">
+<img src="pic/APP_rgb_led_controller.png" width="300"> 
 <br> <br>
 
-<img src="/led_controller.png">
+<img src="pic/led_controller.png" width="300"> 
+<br> <br>
+
+<img src="pic/APP_rgb_led_controller.png">
+<br> <br>
+
+<img src="pic/led_controller.png">
 <br> <br>
 
 <ul>
